@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 # CREDEBIT INSURANCE DASHBOARD
 
-### Dashboard Link : https://app.powerbi.com/groups/1a12fa70-25fd-4bde-bc75-ca25d6312938/reports/e94f691b-209e-4ec2-a4c6-b43b75d5164a/4798cabb238abd001708?redirectedFromSignup=1&experience=power-bi
+### Dashboard Link : [https://app.powerbi.com/groups/1a12fa70-25fd-4bde-bc75-ca25d6312938/reports/e94f691b-209e-4ec2-a4c6-b43b75d5164a/4798cabb238abd001708?redirectedFromSignup=1&experience=power-bi](https://app.powerbi.com/reportEmbed?reportId=e94f691b-209e-4ec2-a4c6-b43b75d5164a&autoAuth=true&ctid=f63b639e-20d3-48e3-807e-b5db0f84ff9e)
 
 ## Problem Statement
 
